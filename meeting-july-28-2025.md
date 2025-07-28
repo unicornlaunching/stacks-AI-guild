@@ -4,7 +4,7 @@
 This session of the Stacks AI Guild brought together a diverse group of builders, creators, and community leaders to discuss strategies for leveraging AI and blockchain to unlock funding, foster innovation, and build impactful projects within the Stacks ecosystem. The meeting was highly interactive, focusing on practical steps, mentorship, and removing barriers to participation, especially regarding access to AI resources and startup funding.
 
 ## Key Participants
-- **Michael Jagdale** (Host, Headhunter, Exponent Labs, Syndicate)
+- **Michael Jagdeo** (Host, Headhunter, Exponent Labs, Syndicate)
 - **Bolupik** (AI Artist, Partner at Smoke STX)
 - **GPSC (Giga Pepe)** (Community Manager, Zest Protocol & Stacking DAO)
 - **Rocky** (UI/UX Lead, Exponent Labs, DeFi builder)
